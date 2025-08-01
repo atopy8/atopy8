@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on:
 - A mini shell in C
-- A Sudoku solver in Python
-- A 2048 game in Java (console version)
+- little 2D PathFinding project in C++
 
 🌱 I’m currently learning:
 - System design and distributed systems
